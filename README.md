@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+First Write Your Rapid Api key in fetchFromAPI.js file inside utils folder.
+
 In the project directory, you can run:
 
 ### `npm start`
